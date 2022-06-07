@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-scss-bem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodirruzmatov/bootstrap-scss-bem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodirruzmatov/bootstrap-scss-bem/issues"
+  },
+  "homepage": "https://github.com/nodirruzmatov/bootstrap-scss-bem#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
